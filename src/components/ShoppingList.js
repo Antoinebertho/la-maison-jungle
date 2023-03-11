@@ -9,6 +9,10 @@ function ShoppingList() {
 		[]
 	)
 
+function handleClick() {
+  console.log('✨ Ceci est un clic ✨')
+}
+
 	return (
 		<div>
 			<ul>

@@ -32,7 +32,7 @@ export const plantList = [
 		name: 'olivier',
 		category: 'extérieur',
 		id: '5pl',
-		isSpecialOffer: true
+		isSpecialOffer: true,
 		light: 3,
 		water: 1
 	},
