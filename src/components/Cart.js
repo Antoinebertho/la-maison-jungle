@@ -8,9 +8,9 @@ function Cart() {
     <div className="lmj-cart">
       <h2>Mon panier</h2>
       <ul>
-        <li>Monstera: {monsteraPrice}€</li>
-        <li>Lierre: {lierrePrice}€</li>
-        <li>Bouquet de fleurs: {fleursPrice}€</li>
+          <li>Monstera: {monsteraPrice}€</li>
+          <li>Lierre: {lierrePrice}€</li>
+          <li>Bouquet de fleurs: {fleursPrice}€</li>
       </ul>
       Total: {monsteraPrice + lierrePrice + fleursPrice}€
     </div>)}
