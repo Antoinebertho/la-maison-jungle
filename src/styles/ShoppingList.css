@@ -8,4 +8,14 @@
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
+	align-items: center;
+}
+
+.lmj-button-list {
+	border: none;
+	border-radius: 10px;
+	padding: 8px;
+	margin: 8px;
+	background-color: #31b572;
+	width: 50%;
 }

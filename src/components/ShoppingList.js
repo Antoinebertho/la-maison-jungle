@@ -45,10 +45,10 @@ function ShoppingList({ cart, updateCart }) {
 								cover={cover}
 								name={name}
 								water={water}
-								light={light}
+								light={light} 
 								price={price}
 							/>
-							<button onClick={() => addToCart(name, price)}>Ajouter</button>
+							<button className='lmj-button-list' onClick={() => addToCart(name, price)}>Ajouter</button>
 						</div>
 					) : null
 				)}

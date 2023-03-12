@@ -20,8 +20,11 @@
 	font-weight: 600;
 	cursor: pointer;
 	align-self: self-start;
-	padding: 0;
+	padding: 10px;
 	color: white;
+	border: none;
+	border-radius: 10px;
+	background-color: #31b572;
 }
 
 .lmj-cart-closed {
